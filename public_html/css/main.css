@@ -1,0 +1,38 @@
+#banner {
+    width: 800px;
+    height: 100px;
+    background-color: coral;
+    clear:both;
+    position:fixed;
+
+}
+
+#nav {
+    width: 100px;
+    height: 200px;
+    background-color:yellow;
+}
+
+
+#content {
+    width: 600px;
+    height: 800px;
+    background-color:azure;
+
+}
+
+
+
+#footer {
+    width: 800px;
+    height: 50px;
+    background-color:darkgoldenrod;
+    clear:both;
+}
+
+#supporting {
+    width: 100px;
+    height: 150px;
+    background-color:aliceblue;
+}
+
